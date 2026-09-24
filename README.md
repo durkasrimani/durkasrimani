@@ -6,6 +6,8 @@
 ## Contact Information
 - **Email:** [durkasrimani937@gmail.com](mailto:durkasrimani937@gmail.com)
 - **LinkedIn:** [linkedin.com/in/durkasrimani/](https://www.linkedin.com/in/durkasrimani/)
+- **Leetcode:** [leetcode.com/u/durkasri_mani/](https://leetcode.com/u/durkasri_mani/)
+- **Codechef:** [codechef.com/users/durkassri_937](https://www.codechef.com/users/durkassri_937)
 
 ## About
 I am a **Computer Science Engineering** graduate passionate about Java software development, problem solving, and building scalable applications. I am currently strengthening my skills in Java, Data Structures & Algorithms, OOP, SQL, and backend development through hands-on projects.
